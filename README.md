@@ -1,5 +1,16 @@
+
+<div style="text-align:center;">
+
 # Hello world , it's Anis &#128512;
 
+
+ ![My github stats](https://github-readme-stats.vercel.app/api?username=anisdhiyaeddine&show_icons=true&theme=nord)
+
+</div>
+
+
+ 
+ ------
 ## Version
 
 * [x] En
@@ -30,7 +41,7 @@
   - I'm a bodybuilder and i love being healthy &#128526;
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=anisdhiyaeddine&show_icons=true&theme=nord)
+ 
   <br><br>
 </details>
 
@@ -63,7 +74,6 @@
   - Je suis culturiste et j'adore être en bonne santé &#128526;
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=anisdhiyaeddine&show_icons=true&theme=nord)
   <br><br>
 </details>
 
