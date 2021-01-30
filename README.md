@@ -14,7 +14,6 @@
 ## Version
 
 * [x] En
-* [Fr](##fr)
 
 -------
 ## About me
@@ -48,7 +47,6 @@
                      
   -----
 
-## Fr
 * [x] Fr
 ## Sur moi
 <p>J'aime expérimenter avec les nouvelles technologies, construire des petits projets et rejoindre occasionnellement des hackathons . </p>
