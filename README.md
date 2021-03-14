@@ -19,8 +19,8 @@
 ## About me
 <p>I like experimenting with new technologies, building small projects, and occassionally joining hackathons. </p>
 
-- 🔭 I’m currently maintaining [Appizy](https://github.com/Appizy) , Studying and Freelancing &#128525;
-- 🌱 I’m learning Typescript and Microservices with React Node Docker && K8s
+- 🔭 I’m currently working on [Pappers](https://www.pappers.fr/) , Studying and Freelancing &#128525;
+- 🌱 I’m learning Microservices with React Node Docke, K8s && Typescript
 - 👯 I’m looking to collaborate on new projects , and help startups grow
 - 🤔 I’m looking for help with finding a study contract "and | or" an internship
 - 💬 Ask me about anything , you'll find the contact links below
@@ -51,7 +51,7 @@
 ## Sur moi
 <p>J'aime expérimenter avec les nouvelles technologies, construire des petits projets et rejoindre occasionnellement des hackathons . </p>
 
-- 🔭 Je maintiens actuellement [Appizy](https://github.com/Appizy) , j'étudie et je fais du freelance &#128525;
+- 🔭 Je travaille actuellement sur [Pappers](https://www.pappers.fr/) , j'étudie et je fais du freelance &#128525;
 - 🌱 Je suis entrain d'apprendre Typescript et les Microservices avec React Node, Docker et le K8s
 - 👯 Je cherche à collaborer sur de nouveaux projets et aider les startups à se développer
 - 🤔 Je cherche une contrat d'alternance ou un stage et je suis dispo immédiatement
