@@ -22,8 +22,8 @@
 - 🔭 I’m currently working on [Pappers](https://www.pappers.fr/) , Studying and Freelancing &#128525;
 - 🌱 I’m learning Microservices with React Node Docke, K8s && Typescript
 - 👯 I’m looking to collaborate on new projects , and help startups grow
-- 🤔 I’m looking for help with finding a study contract "and | or" an internship
-- 💬 Ask me about anything , you'll find the contact links below
+- 🤔 I’m looking for help with finding a apprenticeship contract
+- 💬 Ask me about web developement , you'll find the contact links below
 - 📫 How to reach me:
    - phone : +33 753867808
    - email : anisdhiyaeddinde.dev@gmail.com
@@ -54,8 +54,8 @@
 - 🔭 Je travaille actuellement sur [Pappers](https://www.pappers.fr/) , j'étudie et je fais du freelance &#128525;
 - 🌱 Je suis entrain d'apprendre Typescript et les Microservices avec React Node, Docker et le K8s
 - 👯 Je cherche à collaborer sur de nouveaux projets et aider les startups à se développer
-- 🤔 Je cherche une contrat d'alternance ou un stage et je suis dispo immédiatement
-- 💬 Interrogez-moi sur quoi que ce soit .
+- 🤔 Je cherche une contrat d'alternance je suis dispo immédiatement
+- 💬 Interrogez-moi sur le monde du web .
 - 📫 Comment me joindre:
    - Téléphone : +33 753867808
    - email : anisdhiyaeddinde.dev@gmail.com
