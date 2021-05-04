@@ -54,7 +54,7 @@
 - 🔭 Je travaille actuellement sur [Pappers](https://www.pappers.fr/) , j'étudie et je fais du freelance &#128525;
 - 🌱 Je suis entrain d'apprendre Typescript et les Microservices avec React Node, Docker et le K8s
 - 👯 Je cherche à collaborer sur de nouveaux projets et aider les startups à se développer
-- 🤔 Je cherche une contrat d'alternance je suis dispo immédiatement
+- 🤔 Je cherche un contrat d'apprentissage je suis dispo immédiatement
 - 💬 Interrogez-moi sur le monde du web .
 - 📫 Comment me joindre:
    - Téléphone : +33 753867808
