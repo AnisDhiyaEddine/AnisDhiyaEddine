@@ -20,7 +20,7 @@
 <p>I like experimenting with new technologies, building small projects, and occassionally joining hackathons. </p>
 
 - 🔭 I’m currently working on [Pappers](https://www.pappers.fr/) , Studying and Freelancing &#128525;
-- 🌱 I’m learning Microservices with React Node Docke, K8s && Typescript
+- 🌱 I’m learning Microservices with React Node Docker, K8s && Typescript
 - 👯 I’m looking to collaborate on new projects , and help startups grow
 - 🤔 I’m looking for help with finding a apprenticeship contract
 - 💬 Ask me about web developement , you'll find the contact links below
