@@ -1,14 +1,5 @@
 
-<div style="text-align:center;">
-
 # Hello world , it's Anis &#128512;
-
-
- ![My github stats](https://github-readme-stats.vercel.app/api?username=anisdhiyaeddine&show_icons=true&theme=nord)
-
-</div>
-
-
  
  ------
 ## Version
